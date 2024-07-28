@@ -6,3 +6,5 @@ find the peaks: https://leetcode.com/problems/find-the-peaks/description/
 3Sum: https://leetcode.com/problems/3sum/description/
 
 Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
+
+First Missing Positive: https://leetcode.com/problems/first-missing-positive/description/
