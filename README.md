@@ -11,6 +11,8 @@ First Missing Positive: https://leetcode.com/problems/first-missing-positive/des
 
 Two Sum: https://leetcode.com/problems/two-sum/description/
 
+Happy number: https://leetcode.com/problems/happy-number/description/
+
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
