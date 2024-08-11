@@ -17,6 +17,9 @@ Fibonacci: https://leetcode.com/problems/fibonacci-number/description/
 
 Climbing Stairs: https://leetcode.com/problems/climbing-stairs/description/
 
+Reverse String:  https://leetcode.com/problems/reverse-string/description/
+
+
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
