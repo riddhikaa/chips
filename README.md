@@ -15,6 +15,8 @@ Happy number: https://leetcode.com/problems/happy-number/description/
 
 Fibonacci: https://leetcode.com/problems/fibonacci-number/description/
 
+Climbing Stairs: https://leetcode.com/problems/climbing-stairs/description/
+
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
