@@ -21,6 +21,7 @@ Reverse String:  https://leetcode.com/problems/reverse-string/description/
 
 Two Sum II: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 
+BirthdayCandles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
 
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
