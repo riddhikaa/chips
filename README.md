@@ -23,6 +23,8 @@ Two Sum II: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/descr
 
 BirthdayCandles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
 
+Time Conversion: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
+
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
