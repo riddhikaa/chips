@@ -25,6 +25,8 @@ BirthdayCandles: https://www.hackerrank.com/challenges/birthday-cake-candles/pro
 
 Time Conversion: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
 
+Grading students: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
