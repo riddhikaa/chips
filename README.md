@@ -27,6 +27,8 @@ Time Conversion: https://www.hackerrank.com/challenges/time-conversion/problem?i
 
 Grading students: https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
 
+Number Line jumps: https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+
 try karo firse >:3
 Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/description/
 
